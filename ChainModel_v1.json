@@ -1031,7 +1031,7 @@
         "Node name for S&R": "CheckpointLoaderSimple"
       },
       "widgets_values": [
-        "lustifySDXLNSFW_endgame.safetensors"
+        "test.safetensors"
       ],
       "shape": 1
     },
@@ -1192,7 +1192,7 @@
         "Node name for S&R": "LoraLoader"
       },
       "widgets_values": [
-        "zy_Realism_Enhancer_v1.safetensors",
+        "test.safetensors",
         0.5,
         2
       ],
@@ -1413,7 +1413,7 @@
         "Node name for S&R": "LoraLoader"
       },
       "widgets_values": [
-        "myself_1.safetensors",
+        "test.safetensors",
         1,
         2
       ],
@@ -1469,7 +1469,7 @@
         "Node name for S&R": "LoraLoader"
       },
       "widgets_values": [
-        "templarclothesxl.safetensors",
+        "test.safetensors",
         1,
         2
       ],
@@ -1524,7 +1524,7 @@
         "Node name for S&R": "CheckpointLoaderSimple"
       },
       "widgets_values": [
-        "ponyRealism_V22MainVAE.safetensors"
+        "test.safetensors"
       ],
       "shape": 1
     },
@@ -1572,7 +1572,7 @@
         "Node name for S&R": "LoraLoader"
       },
       "widgets_values": [
-        "zy_AmateurStyle_v2.safetensors",
+        "test.safetensors",
         1,
         1
       ]
@@ -1677,7 +1677,7 @@
         "Node name for S&R": "ReActorLoadFaceModel"
       },
       "widgets_values": [
-        "face_model_mean_0.safetensors"
+        "test.safetensors"
       ]
     },
     {
@@ -1776,7 +1776,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "blurry, airbrushed, futa, futanari, femboy,\n\nugly, duplicate, mutilated, extra_fingers, mutated_hands, poorly_drawn_hands, poorly_drawn_face, mutation, deformed, ugly, blurry, bad_anatomy, bad_proportions, extra_limbs, cloned_face, disfigured, bad_anatomy, gross_proportions, malformed_limbs, missing_arms, missing_legs, extra_arms, extra_legs, mutated_hands, fused_fingers, too_many_fingers,long_neck,"
+        "blurry, airbrushed, ugly, duplicate, mutilated, extra_fingers, mutated_hands, poorly_drawn_hands, poorly_drawn_face, mutation, deformed, ugly, blurry, bad_anatomy, bad_proportions, extra_limbs, cloned_face, disfigured, bad_anatomy, gross_proportions, malformed_limbs, missing_arms, missing_legs, extra_arms, extra_legs, mutated_hands, fused_fingers, too_many_fingers,long_neck,"
       ],
       "color": "#322",
       "bgcolor": "#533",
@@ -1821,7 +1821,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "futa, futanari, femboy, \nscore_4, score_5, score_6,\n\nugly, duplicate, mutilated, extra_fingers, mutated_hands, poorly_drawn_hands, poorly_drawn_face, mutation, deformed, ugly, blurry, bad_anatomy, bad_proportions, extra_limbs, cloned_face, disfigured, bad_anatomy, gross_proportions, malformed_limbs, missing_arms, missing_legs, extra_arms, extra_legs, mutated_hands, fused_fingers, too_many_fingers,long_neck,"
+        "score_4, score_5, score_6, ugly, duplicate, mutilated, extra_fingers, mutated_hands, poorly_drawn_hands, poorly_drawn_face, mutation, deformed, ugly, blurry, bad_anatomy, bad_proportions, extra_limbs, cloned_face, disfigured, bad_anatomy, gross_proportions, malformed_limbs, missing_arms, missing_legs, extra_arms, extra_legs, mutated_hands, fused_fingers, too_many_fingers,long_neck,"
       ],
       "color": "#322",
       "bgcolor": "#533",
