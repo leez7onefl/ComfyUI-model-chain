@@ -20,7 +20,7 @@ This project contains a ComfyUI workflow designed to perform :
 
 #### LoRAs for Base:
 - **Load LoRA:** 
-  - These nodes load different LoRA models which fine-tune the style of the generated images. The `zy_AmateurStyle_v2` and `zy_Realism_Enhancer_v1` LoRAs are applied with specified strengths for the model and the CLIP (Contrastive Language–Image Pre-training).
+  - These nodes load different LoRA models which fine-tune the style of the generated images. 
   
 #### Checkpoints and Decoders:
 - **Load Checkpoint:** 
